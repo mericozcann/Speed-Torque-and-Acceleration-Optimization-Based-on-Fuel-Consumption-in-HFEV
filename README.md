@@ -11,6 +11,7 @@ ________________________________________
 ________________________________________
 ## Technologies Used
 *	Programming Language: Python
+
 Libraries:
 *	NumPy: Numerical computations.
 *	Matplotlib: Data visualization.
@@ -43,6 +44,7 @@ ________________________________________
 ________________________________________
 ## Kullanılan Teknolojiler
 *	Programlama Dili: Python
+
 Kütüphaneler:
 *	NumPy: Sayısal hesaplamalar.
 *	Matplotlib: Veri görselleştirme.
