@@ -11,10 +11,10 @@ ________________________________________
 ________________________________________
 ## Technologies Used
 *	Programming Language: Python
-*	Libraries:
-o	NumPy: Numerical computations.
-o	Matplotlib: Data visualization.
-o	SciPy: Optimization and mathematical modeling.
+Libraries:
+*	NumPy: Numerical computations.
+*	Matplotlib: Data visualization.
+*	SciPy: Optimization and mathematical modeling.
 ________________________________________
 ## Results and Key Findings
 *	Optimum Torque Coefficients: [100, 0.01]
@@ -43,10 +43,10 @@ ________________________________________
 ________________________________________
 ## Kullanılan Teknolojiler
 *	Programlama Dili: Python
-*	Kütüphaneler:
-o	NumPy: Sayısal hesaplamalar.
-o	Matplotlib: Veri görselleştirme.
-o	SciPy: Optimizasyon ve matematiksel modelleme.
+Kütüphaneler:
+*	NumPy: Sayısal hesaplamalar.
+*	Matplotlib: Veri görselleştirme.
+*	SciPy: Optimizasyon ve matematiksel modelleme.
 ________________________________________
 ## Sonuçlar ve Temel Bulgular
 *	Optimum Tork Katsayıları: [100, 0.01]
